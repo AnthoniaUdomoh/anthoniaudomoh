@@ -1,5 +1,5 @@
 # Anthonia Udomoh (@anthoniaudomoh)
-I am a data analyst. My interests at the moment cuts across business analytics.
+I am a data analyst. My interest at the moment cuts across business analytics.
 
 ## Fun Fact
 ✨✨ I am also an entrepreneur that foster client continuity for business using Corporate Gifting<br>
@@ -14,8 +14,8 @@ Cheta is a project born out of my classroom experience. After leaving the classr
 🔭 Attention to details, looking for every loophole😄<br>
 ✅ A fan of checklists (and step-by-step)<br>
 
-## Works so far
-* 🔭 My [Portfolio](https://sites.google.com/view/anthoniaudomoh/project-page)) for some of my recent work.
+## Work so far
+* 🔭 My [Portfolio](https://sites.google.com/view/anthoniaudomoh/project-page) for some of my recent work.
 * :Wix: [Website](https://udomohanthonia.wixsite.com/anthonia-udomoh)<br>
 
 ## Get in touch
